@@ -1,6 +1,6 @@
 {
   "name": "useful-math",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "useful math function from different libraries",
   "main": "index.js",
   "keywords": [],
