@@ -1,12 +1,12 @@
-import constrain from './constrain.js';
-import lerp from './lerp.js';
-import map from './map.js';
-import noise from './noise.js';
-import random from './random.js';
-import getHeadingFromPosition from './getHeadingFromPosition.js';
-import getHeadingfromAngle from './getHeadingfromAngle.js';
-import getDistanceBetweenTwoPoints from './getDistanceBetweenTwoPoints.js';
-import checkAABB from './checkAABB.js';
+import constrain from './functions/constrain.js';
+import lerp from './functions/lerp.js';
+import map from './functions/map.js';
+import noise from './functions/noise.js';
+import random from './functions/random.js';
+import getHeadingFromPosition from './functions/getHeadingFromPosition.js';
+import getHeadingfromAngle from './functions/getHeadingfromAngle.js';
+import getDistanceBetweenTwoPoints from './functions/getDistanceBetweenTwoPoints.js';
+import checkAABB from './functions/checkAABB.js';
 
 export {
   constrain,
