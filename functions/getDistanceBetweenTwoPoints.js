@@ -1,12 +1,7 @@
 /**
- * @typedef {Object} Point
- * @property {number} Point.x
- * @property {number} Point.y
- */
-
-/**
- * @param  {Point} point1
- * @param  {Point} point2
+ * @param {import('../types').Point} point1
+ * @param {import('../types').Point} point2
+ * @returns {number}
  */
 
 export default (point1, point2) => {

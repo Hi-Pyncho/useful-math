@@ -1,9 +1,11 @@
 {
   "name": "useful-math",
-  "version": "1.0.4",
+  "version": "1.0.13",
   "description": "useful math function from different libraries",
-  "main": "index.js",
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "main": "index.js",
+  "author": "Hi-Pyncho",
+  "license": "MIT",
+  "sideEffects": false,
+  "types": "types.d.ts"
 }

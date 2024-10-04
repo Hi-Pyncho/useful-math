@@ -1,14 +1,6 @@
 /**
- * @typedef {Object} Entity
- * @property {number} Entity.x
- * @property {number} Entity.y
- * @property {number} Entity.width
- * @property {number} Entity.height
- */
-
-/**
- * @param  {Entity} pos1
- * @param  {Entity} pos2
+ * @param {import('../types').Rect} pos1
+ * @param {import('../types').Rect} pos2
  */
 export default (pos1, pos2) => {
   return !(

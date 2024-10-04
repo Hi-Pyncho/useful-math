@@ -5,7 +5,7 @@
  * the clockwise direction.
  * @param  {number} angle
  * @param  {number} magnitude
- * @return {Object} vector position
+ * @return {import('../types').Point} point position
 */
 export default (angle, magnitude) => {
   const x = magnitude * Math.cos(angle);
