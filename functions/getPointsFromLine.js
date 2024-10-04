@@ -1,5 +1,3 @@
-import { Point } from '../types';
-
 /**
  * @typedef {import('../types').Point} Point
  * @param {Point} point1

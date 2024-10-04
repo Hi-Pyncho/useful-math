@@ -1,9 +1,10 @@
 {
   "name": "useful-math",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "useful math function from different libraries",
   "keywords": [],
   "main": "index.js",
+  "type": "module",
   "author": "Hi-Pyncho",
   "license": "MIT",
   "sideEffects": false,
